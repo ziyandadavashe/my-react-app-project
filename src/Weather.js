@@ -61,7 +61,7 @@ export default function Weather(props) {
           </a>
           and is hosted on{" "}
           <a
-            href="https://sensational-stardust-5f482c.netlify.app/"
+            href="https://jocular-brigadeiros-e754f4.netlify.app/"
             target="blank"
           >
             Netlify
