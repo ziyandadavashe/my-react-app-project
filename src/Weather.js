@@ -60,7 +60,10 @@ export default function Weather(props) {
             Ziyanda Davashe{" "}
           </a>
           and is hosted on{" "}
-          <a href="https://github.com/cosylily/react-astro-lily" target="blank">
+          <a
+            href="https://sensational-stardust-5f482c.netlify.app/"
+            target="blank"
+          >
             Netlify
           </a>
           .
