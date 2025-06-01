@@ -53,12 +53,15 @@ export default function Weather(props) {
         <Weatherforecast cityinfo={weatherData.city} />
         <footer className="mt-3">
           This project is coded by{" "}
-          <a href="https://github.com/cosylily" target="blank">
+          <a
+            href="https://github.com/ziyandadavashe/my-react-app-project"
+            target="blank"
+          >
             Ziyanda Davashe{" "}
           </a>
-          and is open-sourced in{" "}
+          and is hosted on{" "}
           <a href="https://github.com/cosylily/react-astro-lily" target="blank">
-            Git Hub
+            Netlify
           </a>
           .
         </footer>
